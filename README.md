@@ -4,7 +4,7 @@ What do I mean by "dumbest ideas" ? Well, you can expect :
   - Asm flash-able/Qemu executable (Target architecture will be indicated or self-explanatory)
   - Crashes
   - Throwaway programs (any language can be here- Even stuff like Brainfuck)
-  - Mini-games of some kind
+  - Mini-games of some kind (Earthbound-style is my favorite)
   - More crashes
   - Even weirder challenges (idk- who'd even try to add an audio header on a txt's hexcode ?)
   - Low-level madness
