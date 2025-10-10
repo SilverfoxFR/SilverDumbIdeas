@@ -7,6 +7,8 @@ What do I mean by "dumbest ideas" ? Well, you can expect :
   - Mini-games of some kind
   - More crashes
   - Even weirder challenges (idk- who'd even try to add an audio header on a txt's hexcode ?)
+  - Low-level madness
+  - Weirder game supports
   - Starwalker
   - Rule 86 of Internet
   - Polyglot files (like, a polyglot file, made out of polyglots, etc etc)
