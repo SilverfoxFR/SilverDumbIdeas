@@ -1,5 +1,5 @@
 # SilverDumbIdeas
-The dumbest ideas I got are in the root's directories. There's no purpose to whatever will be there, except existing for fun.
+The dumbest ideas I got will be in the root's directories. There's no purpose to whatever will be there, except existing for fun.
 What do I mean by "dumbest ideas" ? Well, you can expect :
   - Asm flash-able/Qemu executable (Target architecture will be indicated or self-explanatory)
   - Crashes
