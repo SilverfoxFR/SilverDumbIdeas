@@ -9,6 +9,7 @@ What do I mean by "dumbest ideas" ? Well, you can expect :
   - Even weirder challenges (idk- who'd even try to add an audio header on a txt's hexcode ?)
   - Low-level madness
   - Weirder game supports
+  - WebPages being anything but a normal webpage
   - Starwalker
   - Rule 86 of Internet
   - Polyglot files (like, a polyglot file, made out of polyglots, etc etc)
