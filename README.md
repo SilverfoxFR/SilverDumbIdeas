@@ -7,10 +7,9 @@ What do I mean by "dumbest ideas" ? You can expect :
   - Throwaway programs (any language can be here- Even stuff like Brainfuck)
   - Mini-games of some kind (Earthbound-style)
   - More crashes
-  - Weird challenges (who'd even try to add an audio header on a txt's hexcode)
-  - Low-level madness
+  - Low-level shenanigans
   - Even weirder game supports (Except it's not JUST Doom)
-  - WebPages being anything but a normal webpage
+  - WebPages being anything but normal webpages
   - Starwalker
   - Rule 86 of Internet
   - Polyglot files (sometimes a polyglot file, made out of polyglots, etc)
